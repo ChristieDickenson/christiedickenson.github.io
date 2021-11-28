@@ -1,0 +1,28 @@
+body {background-color: #999999;}
+h1,h2,h3 {text-align:center}
+h1 {color:Black;
+font-family: Bernard MT Condensed;
+font-size: 40px;
+text-align: center;}
+div#main {background-color: #F7D7B0; 
+border-radius: 25px;
+padding: 20px;
+box-shadow: 10px 10px 5px rgb(110, 104, 104)}
+
+h2,h3 {background-color: #F7D7B0;
+color: #7A050B;
+font-family: Bernard MT Condensed;
+font-size: 30px;
+text-alight: center;}
+p {font-family: 'Times New Roman', Times, serif;
+font-size: 18px;
+background-color:#F7D7B0 ;
+color:#7A050B}
+footer{background-color:black ;
+color:white;
+font-size: 14px}
+div#end {background-color:greenyellow;
+border-radius: 25px;
+padding: 20px;
+box-shadow: 10px 10px 5px rgb(110, 104, 104)
+color: #7A050B}
