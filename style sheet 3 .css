@@ -1,0 +1,14 @@
+Main {background-color: black ;
+color: aquamarine;
+font-family: fantasy}
+#borderimg {border-image:}
+img.special {height: 300px}
+Body {background-image: url(galaxy.jpg) ;
+background-size:cover}
+.wrapper {width:60%;
+margin: auto;
+margin-top: 30px}
+ul {list-style-image:url('purple rose.jpg')}
+#borderimg {border: 20px solid transparent;
+padding: 2px;
+border-image:url(border.png)10% round}
